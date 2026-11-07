@@ -28,5 +28,8 @@ class Bicicleta:
 # b1.parar()
 # print(b1.cor, b1.modelo, b1.ano, b1.valor)
 
+b2 = Bicicleta("Verde", "Monark", 2000, 189)
+# b2.buzinar() #Bicicleta.buzinar(b2)
+# Bicicleta.buzinar(b2)
 
-    
+print(b2)
